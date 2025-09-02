@@ -140,7 +140,7 @@ h1 {
   color: #ff4c4c;
 }
 
-/* 🔥 Animations */
+
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
